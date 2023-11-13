@@ -1,0 +1,112 @@
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+
+}
+.title-1 {
+    font-size: 16px;
+}
+.title-2 {
+    font-size: 54px;
+    margin-top: 4px;
+}
+.title-3 {
+    font-size: 20px;
+    margin-top: 16px;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+}
+.name {
+    font-size: 18px;
+}
+.job {
+font-size: 14px;
+color: #3E3E59;
+margin-top: 4px;
+}
+.text {
+font-size: 14px;
+color: #5F6980;
+margin-top: 8px;
+}
+.texts {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+    margin-left: 68px;
+}
+.image {
+    margin-left: 52px;
+    margin-top: 48px;
+}
+.socialmedia {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    max-width: 150px;
+    margin-left: 68px;
+}
+.card {
+    border: 1px solid;
+    border-color: #EAECF0;
+    width: 310px;
+    height: 430px;
+}
+.row1 {
+    margin-top: 48px;
+    margin-left: 52px;
+    display: flex;
+    justify-content: space-around;
+}
+.row2 {
+    margin-top: 48px;
+    margin-left: 52px;
+    display: flex;
+    justify-content: space-around;
+}
+.box {
+    background-color: #53535354;
+    height: 512px;
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text1 {
+    font-size: 14px;
+    color:#535353;
+    margin-top: 32px;
+}
+.socialmedia2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 28px;
+    max-width: 104px;
+}
+.group1 {
+    margin-left: 164px;
+    width: 1305px;
+}
+ul {
+    list-style: none;
+}
+.li {
+    color: #535353;
+    font-size: 14px;
+    text-decoration: none;
+}
+.english {
+    background-color: #054A68;
+    color: white;
+    width: 80px;
+    height: 45px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top:58.45px
+}
